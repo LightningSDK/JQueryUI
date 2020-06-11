@@ -1,5 +1,5 @@
 {
-  "name": "macdabby/lightning-jqueryui",
+  "name": "lightningsdk/jqueryui",
   "type": "library",
   "description": "Adds integration support for jquery ui.",
   "version": "1.12.0",
